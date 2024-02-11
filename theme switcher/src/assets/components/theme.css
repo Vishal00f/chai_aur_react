@@ -1,0 +1,8 @@
+.dark{
+    @apply bg-slate-700 text-gray-300
+
+}
+
+.icon{
+    @apply hover:text-purple-950;
+}
