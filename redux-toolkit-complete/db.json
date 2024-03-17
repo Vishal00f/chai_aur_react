@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "id": "fdfd",
+      "name": "Lisa Fay"
+    },
+    {
+      "id": "11c6",
+      "name": "Tamara Bernhard"
+    },
+    {
+      "id": "c24e",
+      "name": "Melvin Lemke"
+    }
+  ],
+  "albums": [
+    {
+      "id": "12",
+      "title": "picnic",
+      "userId": null
+    },
+    {
+      "id": "51aa",
+      "title": "Sleek Granite Soap",
+      "userId": "fdfd"
+    },
+    {
+      "id": "bcd8",
+      "title": "Small Wooden Computer",
+      "userId": "11c6"
+    },
+    {
+      "id": "7816",
+      "title": "Luxurious Bronze Shoes",
+      "userId": "fdfd"
+    }
+  ],
+  "photos": [
+    {
+      "id": 124,
+      "url": "https://plus.unsplash.com/premium_photo-1683910767532-3a25b821f7ae?q=80&w=2008&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "albumId": "7816"
+    },
+    {
+      "id": "c8be",
+      "url": "https://picsum.photos/seed/4M4VwTvGY/640/480",
+      "albumId": "51aa"
+    },
+    {
+      "id": "be0a",
+      "url": "https://loremflickr.com/640/480?lock=6226789403721728",
+      "albumId": "51aa"
+    }
+  ]
+}
